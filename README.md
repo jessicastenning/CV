@@ -1,50 +1,63 @@
-## Your Name
+## Jessica Stenning
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Full stack developer and Makers Academy student.
+
+Having graduated from the University of Bath, I secured a role with PwC. After 2 years working in financial services and simultaneously completing my chartered accountancy exams, I decided that finance + corporate business doesn't = happy Jess.
+
+I'm looking for a developer role where I can grow my programming knowledge and contribute to an exciting team, where I'm challenged intellectually and surrounded by peers passionate about their work - preferably within a digital product studio/start-up environment.
 
 ## Skills
 
-#### This Skill
+#### Excellent communicator
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+At PwC my primary role was as a relationship manager; using technical accounting skills I'd gained throughout my studies to understand complex legislation and scenarios, and communicate solutions with clarity to clients with little tax knowledge.
 
-- Experience
-- Achievements
-- Evidence
+I'd regularly work with colleagues at a variety of seniorities, up to partner level, and my confidence communicating has provided me with multiple opportunities professionally and otherwise.
 
-#### Another Skill
+- Training lead for internal training sessions delivered to first year associates
+- Business unit NextGen representative - a company-wide network for employees below manager grade, organising networking events and monthly socials
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Fast learner
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Thrives under pressure
+
+
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 18 to July 18)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+An intensive 16 week software development bootcamp at Europe’s #1 Developer Bootcamp.
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Bath (Oct 2011 to July 2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc (hons) Sociology & Business Management - 2:1
+- Modules in International Development, Business Economics and Human Resources Management
+- Women's committee representative, Social Secretary and Captain - University of Bath women's football club
 
-#### Any other qualifications
+#### Sir William Borlases Grammar School, Buckinghamshire (Sept 2003 - July 2010)
+
+- A-levels: Biology, Psychology, Physical Education
+- 12 GCSE's grade A* - C
+- Full sporting colours
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**PwC** (September 2016 to April 2018)   
+*Tax Associate - Private client & Private Business*  
+
+**PwC** (September 2015 to April 2016)   
+*Tax Intern - Private Client & Private Business*
+
+**GKN Aerospace** (September 2013 to June 2014)
+*Industrial placement - HR*

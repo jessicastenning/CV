@@ -10,7 +10,7 @@ I'm looking for a developer role where I can grow my programming knowledge and c
 
 #### Excellent communicator
 
-At PwC my primary role was as a relationship manager; using technical accounting skills I'd gained throughout my studies to understand complex legislation and scenarios, and communicate solutions with clarity to clients with little tax knowledge.
+At PwC my primary role was as a relationship manager; using my technical knowledge to understand complex legislation and scenarios, and communicate solutions with clarity to clients with little tax knowledge.
 
 I'd regularly work with colleagues at a variety of seniorities, up to partner level, and my confidence communicating has provided me with multiple opportunities professionally and otherwise.
 
@@ -71,8 +71,8 @@ An intensive 16 week software development bootcamp at Europe’s #1 Developer Bo
 *Industrial placement - HR*
 
 ## Interests
-- Food and film - if possible both simultaneously
-- If I'm not busy doing the above you can usually find me drinking beer and watching live music or running around London training for my half marathon
+- Food and film - if possible simultaneously
+- If I'm not busy doing the above you can usually find me drinking beer and watching music or running around London training for my half marathon
 
 ### Contact
 - Email: jessicastenning@hotmail.co.uk

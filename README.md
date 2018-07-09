@@ -2,7 +2,7 @@
 
 Full stack developer and Makers Academy graduate.
 
-Having graduated from the University of Bath, I secured a role with PwC. After 2 years working in financial services and simultaneously completing my chartered accountancy exams, I decided that finance + corporate business doesn't = happy Jess.
+Having graduated from the University of Bath, I secured a role with PwC. After 2 years working in financial services and simultaneously completing my chartered accountancy exams, I decided that a career in finance + corporate business doesn't = happy Jess.
 
 I'm looking for a developer role where I can grow my programming knowledge and contribute to an exciting team, where I'm challenged intellectually and surrounded by peers passionate about their work - preferably within a consultancy environment.
 
@@ -20,12 +20,12 @@ Additional responsibilities included:
 
 #### Fast learner
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I'm confident in my ability to pick up new concepts quickly; I find the prospect of a big learning curve far more exciting than it is daunting  
+- My previous role depended on my ability to continuously get to grips with new technical concepts via my accounting exams as well as shifting legislation
+- I completed a 6 month secondment to another department where I was expected to be up to speed and chargeable after my first week with the team
 
 #### Thrives under pressure
+- 
 
 
 ## Projects
@@ -71,6 +71,8 @@ An intensive 16 week software development bootcamp at Europe’s #1 Developer Bo
 *Industrial placement - HR*
 
 ## Interests
+- Food and film - if possible both simultaneously
+- If I'm not busy doing the above you can usually find me drinking beer and watching live music or running around London training for my half marathon
 
 ### Contact
 - Email: jessicastenning@hotmail.co.uk

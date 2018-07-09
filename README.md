@@ -24,14 +24,10 @@ Additional responsibilities included:
 - My previous role depended on my ability to continuously get to grips with new technical concepts via my accounting exams as well as shifting legislation
 - I completed a 6 month secondment to another department where I was expected to be up to speed and chargeable after my first week with the team
 
-#### Thrives under pressure
-- 
-
-
 ## Projects
 | Summary       | Tech          | Testing  |
 | ------------- |:-------------:| -----:|
-| <a href="https://github.com/jessicastenning/bank-tech-test">Bank tech test</a>
+| <a href="https://github.com/jessicastenning/bank-tech-test">Bank tech test</a> |
 | Practice tech test, creating a command line Bank app    | Ruby          | Rspec |
 
 

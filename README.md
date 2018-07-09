@@ -1,10 +1,10 @@
 ## Jessica Stenning
 
-Full stack developer and Makers Academy student.
+Full stack developer and Makers Academy graduate.
 
 Having graduated from the University of Bath, I secured a role with PwC. After 2 years working in financial services and simultaneously completing my chartered accountancy exams, I decided that finance + corporate business doesn't = happy Jess.
 
-I'm looking for a developer role where I can grow my programming knowledge and contribute to an exciting team, where I'm challenged intellectually and surrounded by peers passionate about their work - preferably within a digital product studio/start-up environment.
+I'm looking for a developer role where I can grow my programming knowledge and contribute to an exciting team, where I'm challenged intellectually and surrounded by peers passionate about their work - preferably within a consultancy environment.
 
 ## Skills
 
@@ -14,6 +14,7 @@ At PwC my primary role was as a relationship manager; using technical accounting
 
 I'd regularly work with colleagues at a variety of seniorities, up to partner level, and my confidence communicating has provided me with multiple opportunities professionally and otherwise.
 
+Additional responsibilities included:
 - Training lead for internal training sessions delivered to first year associates
 - Business unit NextGen representative - a company-wide network for employees below manager grade, organising networking events and monthly socials
 
@@ -27,6 +28,12 @@ I'd regularly work with colleagues at a variety of seniorities, up to partner le
 #### Thrives under pressure
 
 
+## Projects
+| Summary       | Tech          | Testing  |
+| ------------- |:-------------:| -----:|
+| <a href="https://github.com/jessicastenning/bank-tech-test">Bank tech test</a>
+| Practice tech test, creating a command line Bank app    | Ruby          | Rspec |
+
 
 ## Education
 
@@ -34,9 +41,10 @@ I'd regularly work with colleagues at a variety of seniorities, up to partner le
 
 An intensive 16 week software development bootcamp at Europe’s #1 Developer Bootcamp.
 
+- Pair programming
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, JavaScript, Java
 - RSpec, Jasmine
 
 #### University of Bath (Oct 2011 to July 2015)
@@ -61,3 +69,9 @@ An intensive 16 week software development bootcamp at Europe’s #1 Developer Bo
 
 **GKN Aerospace** (September 2013 to June 2014)
 *Industrial placement - HR*
+
+## Interests
+
+### Contact
+- Email: jessicastenning@hotmail.co.uk
+- Phone: 07718 978558

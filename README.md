@@ -4,7 +4,7 @@ Full stack developer and Makers Academy graduate.
 
 Having graduated from the University of Bath, I secured a consultant role with PwC. After 2 years working in financial services and simultaneously completing my chartered accountancy exams, I decided that a career in finance + corporate business doesn't = happy Jess.
 
-I'm looking for a developer role where I can grow my programming knowledge and contribute to an exciting team, where I'm challenged intellectually and surrounded by peers passionate about their work.
+I'm looking for a developer role where I can grow my programming knowledge and contribute to an exciting team, where I'm challenged intellectually and surrounded by peers passionate about their work - preferably within a consultancy environment.
 
 ## Skills
 

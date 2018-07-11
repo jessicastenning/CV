@@ -29,6 +29,8 @@ Additional responsibilities included:
 | ------------- |:-------------:| -----:|
 | <a href="https://github.com/jessicastenning/bank-tech-test">Bank tech test</a> |
 | Practice tech test, creating a command line Bank app    | Ruby          | Rspec |
+| <a href="https://github.com/habin-isa/Angelos">Final project, iOS app</a> |
+| Final group project, creating a personal safety app    | Swift, Xcode          | XCTest |
 
 
 ## Education
